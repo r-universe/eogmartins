@@ -5,4 +5,4 @@
 [submodule "rTFT"]
 	path = rTFT
 	url = https://github.com/eogmartins/rTFT
-	branch = v0.1.0
+	branch = v0.1.1
