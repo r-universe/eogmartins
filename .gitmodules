@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/eogmartins/eogmartins.r-universe.dev
 	branch = HEAD
+[submodule "rTFT"]
+	path = rTFT
+	url = https://github.com/eogmartins/rTFT
+	branch = *release
